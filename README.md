@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/kratirajput807-oss/leetcode-solution/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/kratirajput807-oss/leetcode-solution/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/kratirajput807-oss/leetcode-solution/tree/master/0287-find-the-duplicate-number) |
+| [0485-max-consecutive-ones](https://github.com/kratirajput807-oss/leetcode-solution/tree/master/0485-max-consecutive-ones) |
 ## Dynamic Programming
 |  |
 | ------- |
