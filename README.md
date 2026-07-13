@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/kratirajput807-oss/leetcode-solution/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/kratirajput807-oss/leetcode-solution/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/kratirajput807-oss/leetcode-solution/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/kratirajput807-oss/leetcode-solution/tree/master/0258-add-digits) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -49,4 +50,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/kratirajput807-oss/leetcode-solution/tree/master/0287-find-the-duplicate-number) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/kratirajput807-oss/leetcode-solution/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/kratirajput807-oss/leetcode-solution/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
