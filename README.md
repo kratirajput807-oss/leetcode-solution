@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/kratirajput807-oss/leetcode-solution/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/kratirajput807-oss/leetcode-solution/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/kratirajput807-oss/leetcode-solution/tree/master/0258-add-digits) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/kratirajput807-oss/leetcode-solution/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -58,4 +59,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/kratirajput807-oss/leetcode-solution/tree/master/0258-add-digits) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/kratirajput807-oss/leetcode-solution/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
