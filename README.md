@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/kratirajput807-oss/leetcode-solution/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/kratirajput807-oss/leetcode-solution/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/kratirajput807-oss/leetcode-solution/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/kratirajput807-oss/leetcode-solution/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/kratirajput807-oss/leetcode-solution/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/kratirajput807-oss/leetcode-solution/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/kratirajput807-oss/leetcode-solution/tree/master/0287-find-the-duplicate-number) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/kratirajput807-oss/leetcode-solution/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/kratirajput807-oss/leetcode-solution/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/kratirajput807-oss/leetcode-solution/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/kratirajput807-oss/leetcode-solution/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/kratirajput807-oss/leetcode-solution/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/kratirajput807-oss/leetcode-solution/tree/master/0268-missing-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kratirajput807-oss/leetcode-solution/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/kratirajput807-oss/leetcode-solution/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/kratirajput807-oss/leetcode-solution/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kratirajput807-oss/leetcode-solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kratirajput807-oss/leetcode-solution/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -90,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kratirajput807-oss/leetcode-solution/tree/master/0169-majority-element) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/kratirajput807-oss/leetcode-solution/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
