@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/kratirajput807-oss/leetcode-solution/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/kratirajput807-oss/leetcode-solution/tree/master/0009-palindrome-number) |
+| [0043-multiply-strings](https://github.com/kratirajput807-oss/leetcode-solution/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/kratirajput807-oss/leetcode-solution/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/kratirajput807-oss/leetcode-solution/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/kratirajput807-oss/leetcode-solution/tree/master/0204-count-primes) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/kratirajput807-oss/leetcode-solution/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/kratirajput807-oss/leetcode-solution/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/kratirajput807-oss/leetcode-solution/tree/master/0258-add-digits) |
 ## Number Theory
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/kratirajput807-oss/leetcode-solution/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/kratirajput807-oss/leetcode-solution/tree/master/0067-add-binary) |
 ## Sorting
 |  |
