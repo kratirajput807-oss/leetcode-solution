@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/kratirajput807-oss/leetcode-solution/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/kratirajput807-oss/leetcode-solution/tree/master/0268-missing-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kratirajput807-oss/leetcode-solution/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/kratirajput807-oss/leetcode-solution/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kratirajput807-oss/leetcode-solution/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Prefix Sum
 |  |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/kratirajput807-oss/leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/kratirajput807-oss/leetcode-solution/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/kratirajput807-oss/leetcode-solution/tree/master/0268-missing-number) |
+| [3536-maximum-product-of-two-digits](https://github.com/kratirajput807-oss/leetcode-solution/tree/master/3536-maximum-product-of-two-digits) |
 ## Counting
 |  |
 | ------- |
