@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/kratirajput807-oss/leetcode-solution/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/kratirajput807-oss/leetcode-solution/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/kratirajput807-oss/leetcode-solution/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/kratirajput807-oss/leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kratirajput807-oss/leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/kratirajput807-oss/leetcode-solution/tree/master/0152-maximum-product-subarray) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/kratirajput807-oss/leetcode-solution/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/kratirajput807-oss/leetcode-solution/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/kratirajput807-oss/leetcode-solution/tree/master/0043-multiply-strings) |
+| [0066-plus-one](https://github.com/kratirajput807-oss/leetcode-solution/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/kratirajput807-oss/leetcode-solution/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/kratirajput807-oss/leetcode-solution/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/kratirajput807-oss/leetcode-solution/tree/master/0204-count-primes) |
