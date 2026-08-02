@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/kratirajput807-oss/leetcode-solution/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/kratirajput807-oss/leetcode-solution/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kratirajput807-oss/leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/kratirajput807-oss/leetcode-solution/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kratirajput807-oss/leetcode-solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Dynamic Programming
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/kratirajput807-oss/leetcode-solution/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kratirajput807-oss/leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/kratirajput807-oss/leetcode-solution/tree/master/0152-maximum-product-subarray) |
+| [0877-stone-game](https://github.com/kratirajput807-oss/leetcode-solution/tree/master/0877-stone-game) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/kratirajput807-oss/leetcode-solution/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/kratirajput807-oss/leetcode-solution/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kratirajput807-oss/leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/kratirajput807-oss/leetcode-solution/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kratirajput807-oss/leetcode-solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/kratirajput807-oss/leetcode-solution/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kratirajput807-oss/leetcode-solution/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -115,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/kratirajput807-oss/leetcode-solution/tree/master/0231-power-of-two) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/kratirajput807-oss/leetcode-solution/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
