@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/kratirajput807-oss/leetcode-solution/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/kratirajput807-oss/leetcode-solution/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/kratirajput807-oss/leetcode-solution/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/kratirajput807-oss/leetcode-solution/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/kratirajput807-oss/leetcode-solution/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/kratirajput807-oss/leetcode-solution/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kratirajput807-oss/leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/kratirajput807-oss/leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/kratirajput807-oss/leetcode-solution/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/kratirajput807-oss/leetcode-solution/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/kratirajput807-oss/leetcode-solution/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
 |  |
